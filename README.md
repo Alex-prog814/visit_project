@@ -62,7 +62,7 @@
     Enter the following command to create a superuser:
     
     ```
-   python3 manage.py super_user
+   python3 manage.py createsuperuser
    ```
     
     then enter the requested data
